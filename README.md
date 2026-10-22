@@ -9,9 +9,8 @@ Một công cụ siêu nhẹ (Userscript) giúp bạn xem và tải tài liệu 
 
 **Hướng dẫn cài đặt**
 1. Cài đặt tiện ích mở rộng **Tampermonkey** cho trình duyệt (Chrome, Edge, Cốc Cốc, Firefox).
-2. Bấm vào biểu tượng tiện ích Tampermonkey trên thanh công cụ, chọn **Create a new script...** (Tạo script mới).
-3. Copy toàn bộ đoạn mã JavaScript từ file `studocu-unblur.js` trong kho lưu trữ này và dán đè lên nội dung mặc định.
-4. Bấm `Ctrl + S` (hoặc `Cmd + S` trên Mac) để lưu lại.
+2. [👉 Bấm vào đây để cài đặt kịch bản tự động](https://raw.githubusercontent.com/Kousei2704/studocu-downloader/main/studocu-unblur.user.js)
+3. Tiện ích Tampermonkey sẽ tự động mở ra một trang mới, bạn chỉ cần bấm nút **Install** (Cài đặt) là xong.
 
 **Cách sử dụng**
 1. Mở một đường link tài liệu StuDocu bất kỳ. Kịch bản sẽ tự động dọn dẹp các lớp chắn sau khoảng 1-2 giây.
